@@ -18,4 +18,4 @@ The information is organized to be easily accessible and printable.
 - Stores detailed information of five members in the group.
 - Prints the information of all members in a readable format.
 ## Usage
-To view the stage_0, simply navigate to the "stage_0" document within this repository. You can also execute the Python script to see the output of the dictionary data.
+To view the final solution, simply navigate to the "stage_0" document within this repository. You can also execute the Python script to see the output of the dictionary data.
