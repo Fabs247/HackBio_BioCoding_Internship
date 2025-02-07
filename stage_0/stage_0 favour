@@ -10,6 +10,7 @@ serine01_team_members = {
         "Discipline": "Medical Biology and Genetics",
         "PPL": "Python"
     },
+    
     "Member two": {
         "Name": "Essien Joshua",
         "Slack username": "Thunder",
@@ -48,7 +49,11 @@ serine01_team_members = {
         "PPL": "Python" 
     }
 }
+
 # The "\n" symbol creates a new line
+
+print("Hello, meet Serine01 team members.")
+
 print("Member one:" "\n", "Name:", serine01_team_members["Member one"]["Name"], "\n", "Slack username:", serine01_team_members["Member one"]["Slack username"], "\n", "Email:", serine01_team_members["Member one"]["Email"], "\n", "Hobby:", serine01_team_members["Member one"]["Hobby"], "\n", "Country:", serine01_team_members["Member one"]["Country"], "\n", "Discipline:", serine01_team_members["Member one"]["Discipline"], "\n", "Preffered Programming Language:", serine01_team_members["Member one"]["PPL"], "\n")
 
 print("Member two:" "\n", "Name:", serine01_team_members["Member two"]["Name"], "\n", "Slack username:", serine01_team_members["Member two"]["Slack username"], "\n", "Email:", serine01_team_members["Member two"]["Email"], "\n", "Hobby:", serine01_team_members["Member two"]["Hobby"], "\n", "Country:", serine01_team_members["Member two"]["Country"], "\n", "Discipline:", serine01_team_members["Member two"]["Discipline"], "\n", "Preffered Programming Language:", serine01_team_members["Member two"]["PPL"], "\n")
@@ -57,10 +62,12 @@ print("Member three:" "\n", "Name:", serine01_team_members["Member three"]["Name
 
 print("Member four:" "\n", "Name:", serine01_team_members["Member four"]["Name"], "\n", "Slack username:", serine01_team_members["Member four"]["Slack username"], "\n", "Email:", serine01_team_members["Member four"]["Email"], "\n", "Hobby:", serine01_team_members["Member four"]["Hobby"], "\n", "Country:", serine01_team_members["Member four"]["Country"], "\n", "Discipline:", serine01_team_members["Member four"]["Discipline"], "\n", "Preffered Programming Language:", serine01_team_members["Member four"]["PPL"], "\n")
 
-print("Member five:" "\n", "Name:", serine01_team_members["Member five"]["Name"], "\n", "Slack username:", serine01_team_members["Member five"]["Slack username"], "\n", "Email:", serine01_team_members["Member five"]["Email"], "\n", "Hobby:", serine01_team_members["Member five"]["Hobby"], "\n", "Country:", serine01_team_members["Member five"]["Country"], "\n", "Discipline:", serine01_team_members["Member five"]["Discipline"], "\n", "Preffered Programming Language:", serine01_team_members["Member five"]["PPL"]) 
+print("Member five:" "\n", "Name:", serine01_team_members["Member five"]["Name"], "\n", "Slack username:", serine01_team_members["Member five"]["Slack username"], "\n", "Email:", serine01_team_members["Member five"]["Email"], "\n", "Hobby:", serine01_team_members["Member five"]["Hobby"], "\n", "Country:", serine01_team_members["Member five"]["Country"], "\n", "Discipline:", serine01_team_members["Member five"]["Discipline"], "\n", "Preffered Programming Language:", serine01_team_members["Member five"]["PPL"])
 
-#This is the output of the code.
+#This is the output of the code
 
+
+Hello, meet Serine01 team members.
 Member one:
  Name: Karimat Busari 
  Slack username: Karimat 
